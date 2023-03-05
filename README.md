@@ -12,4 +12,4 @@ Follow bellow lines of Instructions :
       
 BOOM file run successfully!!
 
-Project Members : Bhavik Harkhani, Kartik Laheri, Piyush Vaghela, Mayank Gupta, Nilay Jayswal
+Project Collaborators : Bhavik Harkhani, Kartik Laheri, Piyush Vaghela, Mayank Gupta, Nilay Jayswal
