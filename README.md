@@ -10,6 +10,6 @@ Follow bellow lines of Instructions :
       
       streamlit run main.py
       
-BOOM file run successfully!!
+BOOM code run successfully!!
 
 Project Collaborators : Bhavik Harkhani, Kartik Laheri, Piyush Vaghela, Mayank Gupta, Nilay Jayswal
